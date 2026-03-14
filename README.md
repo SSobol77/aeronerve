@@ -10,7 +10,6 @@ This is a commercial product. No part of this software may be copied, modified, 
 > AeroNerve 2.0 combines GPS-free visual navigation, real-time control, and high-fidelity simulation.  
 > It delivers the reliability, observability, and governance enterprises expect — indoors and outdoors.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java](https://img.shields.io/badge/Java-21-blue.svg)](https://openjdk.org/projects/jdk/21/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Build](https://img.shields.io/badge/Build-Maven-red.svg)](https://maven.apache.org/)
