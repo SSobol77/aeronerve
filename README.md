@@ -4,10 +4,10 @@ All rights reserved.
 This is a commercial product. No part of this software may be copied, modified, distributed, or used without explicit written permission from the copyright holder.
 -->
 
-# AeroNerve 2.0 — Unified Intelligent Drone Operations Platform
+# AeroNerve 1.0 — Unified Intelligent Drone Operations Platform   AN-CC-01
 
 > **A unified platform for intelligent drone operations.**  
-> AeroNerve 2.0 combines GPS-free visual navigation, real-time control, and high-fidelity simulation.  
+> AeroNerve 1.0 combines GPS-free visual navigation, real-time control, and high-fidelity simulation.  
 > It delivers the reliability, observability, and governance enterprises expect — indoors and outdoors.
 
 [![Java](https://img.shields.io/badge/Java-21-blue.svg)](https://openjdk.org/projects/jdk/21/)
