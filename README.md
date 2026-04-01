@@ -22,7 +22,7 @@ deterministic control, auditability, and a product architecture prepared for
 regulated and mission-critical deployment.
 
 <p align="center">
-  <img src="img/an_cc2.jpg" alt="AeroNerve 2.0 – Command & Control Core" width="720">
+  <img src="[img/an_cc2.jpg](https://aeronerve.co/images/logo_dr1.png)" alt="AeroNerve 2.0 – Command & Control Core" width="720">
   <br><em>AN-CC-02 — current commercial product baseline</em>
 </p>
 
