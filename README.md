@@ -29,9 +29,12 @@ regulated and mission-critical deployment.
 [![Product](https://img.shields.io/badge/Product-AeroNerve%202.0-blueviolet)](docs/ARCHITECTURE.md)
 [![Java](https://img.shields.io/badge/Java-21-orange)](https://openjdk.org/projects/jdk/21/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.7-brightgreen)](https://spring.io/projects/spring-boot)
+[![Ada/SPARK](https://img.shields.io/badge/Safety%20Kernel-Ada%2FSPARK-005f73)](docs/ARCHITECTURE.md)
 [![License](https://img.shields.io/badge/License-Commercial-red)](LICENSE)
 
 </div>
+
+<br>
 
 ## Why AeroNerve?
 
