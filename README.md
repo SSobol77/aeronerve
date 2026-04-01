@@ -80,8 +80,7 @@ The platform is intended for environments where operators need:
 - **Safety boundary** → bounded Ada/SPARK safety kernel integrated behind the Java orchestration boundary
 - **Transport security** → Nginx reverse-proxy TLS termination for production deployments
 
-Detailed architecture → [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md)  
-Code structure → [`docs/structure.md`](docs/structure.md)
+Technical architecture, product briefings, and commercial deployment materials are available on request for qualified customers, sponsors, and strategic partners.
 
 ## Safety and assurance posture
 
